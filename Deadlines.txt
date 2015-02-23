@@ -1,0 +1,5 @@
+Feb																		Status
+24-27
+Finish Segmentation of Fields											Not Done								
+Convert them to grey scale												Not Done	
+study about glymph														Not-Done
