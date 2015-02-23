@@ -70,7 +70,7 @@ def setup():
     os.mkdir("../meta-data")
 
 if __name__ == "__main__":
-    #setup()
+    setup()
     img1,img2=load("../source/original_form2.jpg","../source/filled2.jpg")
     clean_img1=preprocess(img1)
     clean_img2=preprocess(img2)
